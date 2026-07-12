@@ -1,0 +1,15 @@
+aiofiles
+bcrypt
+fastapi
+httpx
+jinja2
+passlib[bcrypt]
+psycopg2-binary
+pydantic
+pytest
+python-dotenv
+python-jose
+python-multipart
+requests
+sqlalchemy
+uvicorn

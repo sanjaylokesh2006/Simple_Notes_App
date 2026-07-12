@@ -1,0 +1,12 @@
+
+services:
+
+  - type: web
+
+    name: online-voting-system
+
+    runtime: docker
+
+    plan: free
+
+    autoDeploy: true
